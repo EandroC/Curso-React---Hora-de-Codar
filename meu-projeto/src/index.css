@@ -1,0 +1,13 @@
+/*CSS global do projeto*/
+body {
+ padding: 50px;
+}
+
+h1{
+  color: #333;;
+}
+
+p{
+  background-color: #999;
+  padding: 10px;
+}
